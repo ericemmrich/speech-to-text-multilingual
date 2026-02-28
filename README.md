@@ -7,7 +7,7 @@ A minimal Chrome extension for voice dictation in any input field, powered by th
 - **20 languages** with auto-detection of your browser language
 - **Language selector** with persistent preference (saved across sessions)
 - Works in `<input>`, `<textarea>`, and `contenteditable` elements
-- **Double-tap Alt** to toggle dictation
+- **Double-tap Alt** (or **Option ⌥** on Mac) to toggle dictation
 - Toolbar icon to toggle dictation
 - Clean, non-intrusive floating widget
 - No account, no cloud, no limits – uses Chrome's built-in Web Speech API
